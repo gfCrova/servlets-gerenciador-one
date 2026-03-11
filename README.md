@@ -17,4 +17,4 @@
 - Implementa tu própio WebService con ```JSON``` Y ```XML```
  
  
-![img7](https://github.com/gfCrova/ServletsAlura-gerenciador/assets/103906625/f85ee8dc-7474-4098-96db-1c7c137b4748)
+<!--![img7](https://github.com/gfCrova/ServletsAlura-gerenciador/assets/103906625/f85ee8dc-7474-4098-96db-1c7c137b4748)-->
